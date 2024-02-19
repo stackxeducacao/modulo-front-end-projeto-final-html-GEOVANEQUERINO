@@ -59,8 +59,8 @@ nav i {
     margin-bottom: 20px;
 }
 
-.section-about h2 span {
-    border-bottom: solid #5fdde5;
+.section-about h2 span, .Linguagens-box span {
+    border-bottom: 3px solid #5fdde5;
 }
 
 .contact-cta {
@@ -85,19 +85,43 @@ hr {
 .Linguagens-box{
     color: #fcfcfc;
     text-align: center;
+    margin: 20px 0;
     margin-right: 140px;
 }
 
 .box{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
+    margin-bottom: 20px;
 }
 
 .Linguagens-box h2{
     font-size: 28px;
     margin: 0 0 30px;
+    margin-left: 12px;
     text-align: left;
+    text-transform: uppercase;
+}
+
+
+.box-text{
+    text-align: left;
+}
+
+.box i{
+    margin: 14px 10px;
+    text-align: left;
+}
+
+.box-text h3{
+    font-size: 25px;
+}
+
+.box-text p{
+    font-size: 18px;
+    margin: 10px 0;
+    color: #b2b2b2;
 }
 
 
