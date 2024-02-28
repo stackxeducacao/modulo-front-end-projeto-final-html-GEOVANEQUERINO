@@ -13,7 +13,6 @@
 header {
     text-align: center;
     margin: 30px 0;
-    margin-right: 140px;
     font-size:0.875em ;
     color: #fff;
     font-family: 'Young Serif', serif;
@@ -22,11 +21,15 @@ header {
 
 nav {
     text-align: center;
-    margin-right: 120px;
+
 }
 nav i {
     margin: 30px 20px;
     color: #fcfcfc;
+}
+
+h1 {
+    text-align: center;
 }
 
 .section-about{
@@ -48,14 +51,13 @@ nav i {
 .section-about h2 {
     font-size: 0.875em;
     margin: 0 0 20px;
-    margin-right: 140px;
+    
     
 }
 
 .section-about p{
     font-size: 0.675em;
     text-align: justify;
-    margin-right: 130px;
     margin-bottom: 20px;
 }
 
@@ -68,14 +70,13 @@ nav i {
     font-weight: 600;
     text-decoration: none;
     margin: 20px 0;
-    margin-right: 140px;
     border-bottom:3px solid #5fdde5;
 }
 
 .section-about img {
     margin-top: 20px;
     align-items: center;
-    margin-right: 140px;
+    
 }
 
 hr {
@@ -94,12 +95,14 @@ hr {
     justify-content: center;
     align-items: start;
     margin-bottom: 20px;
+    
 }
 
 .Linguagens-box h2{
     font-size: 28px;
-    margin: 0 0 30px;
+    margin: 0 18 35px;
     margin-left: 12px;
+    margin-bottom: 30px;
     text-align: left;
     text-transform: uppercase;
 }
@@ -115,12 +118,12 @@ hr {
 }
 
 .box-text h3{
-    font-size: 25px;
+    font-size: 28px;
 }
 
 .box-text p{
-    font-size: 18px;
-    margin: 10px 0;
+    font-size: 20px;
+    margin: 8px 0;
     color: #b2b2b2;
 }
 
